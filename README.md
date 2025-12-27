@@ -7,6 +7,12 @@
 ### 🚀 Summary
 AI/ML Professional dedicated to building autonomous agents and vision-centric systems. I specialize in transforming complex data into intelligent, self-evolving systems using a blend of **Agentic AI, LLMs, and Deep Learning**. Currently pursuing an MS in Artificial Intelligence at the University at Buffalo. Seeking full time job opportunities for Spring 2026.
 
+### 🛠️ Skills
+* **AI Development:** Agentic AI, LLMs (GPT-4, Claude, Gemini), PyTorch, TensorFlow, Huggingface.
+* **Computer Vision:** YOLO (v8-v12), Vision Transformers (ViT), ROS2, OpenCV.
+* **Machine Learning:** Reinforcement Learning (MARL, PPO), NLP, Scikit-learn, Keras.
+* **Cloud & Ops:** Docker, AWS, Azure, GCP, Linux/Unix, SQL/PLSQL.
+  
 ### 💼 Experience
 * **Researcher | A2IL Lab, University at Buffalo** (Aug 2025 – Present) 
   * Designed the **BOLT system** for Unitree GO2 robot dogs using decoupled CV and motion control.
@@ -24,12 +30,6 @@ AI/ML Professional dedicated to building autonomous agents and vision-centric sy
 ### 🏆 Achievements
 * **2nd Place:** AI For Good Hackathon (Spring 2025) – Developed an AI-driven snow management solution using LSTM models.
 * **IEEE Winner:** R10 Connect Logo Design Competition Winner.
-
-### 🛠️ Skills
-* **AI Development:** Agentic AI, LLMs (GPT-4, Claude, Gemini), PyTorch, TensorFlow, Huggingface.
-* **Computer Vision:** YOLO (v8-v12), Vision Transformers (ViT), ROS2, OpenCV.
-* **Machine Learning:** Reinforcement Learning (MARL, PPO), NLP, Scikit-learn, Keras.
-* **Cloud & Ops:** Docker, AWS, Azure, GCP, Linux/Unix, SQL/PLSQL.
 
 ### 🎓 Education
 * **MS in Artificial Intelligence** | University at Buffalo (Expected Dec 2025)

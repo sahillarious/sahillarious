@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sahillarious/sahillarious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm [Sahil]
 
-Here are some ideas to get you started:
+📊 **AI/ML Specialist | Agentic AI & LLMs | Computer Vision**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌎 Building autonomous agents and vision-centric systems. I specialize in turning complex data into intelligent, self-evolving systems.
+
+### 💡 What I Do:
+
+* **Architect Agentic AI:** Developing multi-agent workflows and autonomous systems.
+* **LLM & Vision Integration:** Merging Large Language Models with Computer Vision for multimodal impact.
+* **Deep Learning & ML:** Designing scalable architectures for complex data challenges.
+* **Actionable Outcomes:** Implementing AI solutions with a focus on real-world scalability.
+
+### 📌 Experience:
+
+* **AI/ML Engineer @ [Current/Target Company]** (2025 – Present)
+
+### 🛠️ Tech Stack:
+
+**AI/ML:** PyTorch, TensorFlow, LangChain, CrewAI, OpenAI, HuggingFace
+**Vision:** OpenCV, Vision Transformers (ViT), YOLO
+**Tools:** Docker, AWS, Git, Vector Databases (Pinecone/Milvus)
+
+---
+
+[(https://www.linkedin.com/in/sahilsawant01/)]

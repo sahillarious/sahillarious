@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# I'm [Sahil]
+# I'm Sahil
 
 📊 **AI/ML Specialist | Agentic AI & LLMs | Computer Vision**
 
@@ -27,4 +27,4 @@
 
 ---
 
-[(https://www.linkedin.com/in/sahilsawant01/)]
+Follow my journey on Linkedin: https://www.linkedin.com/in/sahilsawant01

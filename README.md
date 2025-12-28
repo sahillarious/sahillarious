@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Sahil Sawant
 
-📊 **AI/ML Specialist | Agentic AI & LLMs | Computer Vision**
+📊 **AI/ML Engineer | Agentic AI & LLMs | Computer Vision**
 
 ---
 

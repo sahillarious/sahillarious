@@ -44,7 +44,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
 ### 📁 Key Projects
 * [**Buffalo accident risk prediction & resource allocation**](https://github.com/sahillarious/Buffalo-Accident-Risk-Prediction-Resource-Allocation): Architected and deployed a custom Multi-Agent Reinforcement Learning (MARL) system to optimize network-wide emergency response for 145 units. Utilized a PPO-driven policy agent to process live data feeds and trigger autonomous, real-time resource reallocation decisions. [Link]
 
-* **DeepSpeech**: Built a real-time acoustic pattern recognition system using a Convolutional Autoencoder to diagnose speech disorders with 96% accuracy. Integrated an LLM feedback loop via GPT-4 prompt engineering to deliver personalized, context-aware articulation tips based on identified faulty articulation. [Link]
+* [**DeepSpeech**](https://github.com/sahillarious/DeepSpeech): Built a real-time acoustic pattern recognition system using a Convolutional Autoencoder to diagnose speech disorders with 96% accuracy. Integrated an LLM feedback loop via GPT-4 prompt engineering to deliver personalized, context-aware articulation tips based on identified faulty articulation. [Link]
 
 * **DermAI**: Engineered a diagnostic system for dermatological image classification leveraging Ensemble Transfer Learning (ResNet50, DenseNet121, VGG-19, EfficientNet-B0) to improve robustness over custom models. Deployed a web-based tool using Gradio that combines real-time classification with GPT-4 feedback and Knowledge Graph concepts for grounded recommendations [Link]
 

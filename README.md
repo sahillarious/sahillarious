@@ -15,7 +15,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
 * **Robotics & Engineering**: ROS2 (Foxy) , Robot Control (Unitree Go2) , PyTorch , TensorFlow , Linux/Unix , and Git.
   
 ### 💼 Experience
-* **Researcher | A2IL Lab, University at Buffalo** (Aug 2025 – Dec 2025) 
+* **Researcher | A2IL Lab, University at Buffalo** (Aug 2025 – Dec 2025) [Link](https://github.com/sahillarious/BOLT).
   * Developed the B.O.L.T (Behavioral Object Locomotion & Tracking) system for the Unitree Go2 quadruped, enabling autonomous, real-time vision-guided object following.
   * Designed a decoupled, low-latency architecture that separates perception from motion control to ensure control decisions are driven by the most recent sensory feedback.
   * Engineered a perception pipeline utilizing a quantized YOLOv8n model optimized with ONNX for edge deployment on a Jetson Nano, achieving a near-perfect mAP@0.5 of 0.995.

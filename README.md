@@ -1,3 +1,4 @@
+![AI/ML Banner](linkedin%20banner.png)
 # Hi there 👋 I'm Sahil Sawant
 
 📊 **AI/ML Engineer | Agentic AI & LLMs | Computer Vision**

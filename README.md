@@ -16,7 +16,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
 * **Robotics & Engineering**: ROS2 (Foxy) , Robot Control (Unitree Go2) , PyTorch , TensorFlow , Linux/Unix , and Git.
   
 ### 💼 Experience
-* **Researcher | A2IL Lab, University at Buffalo** (Aug 2025 – Dec 2025) [Link](https://github.com/sahillarious/BOLT).
+* **[Researcher](https://github.com/sahillarious/BOLT) | A2IL Lab, University at Buffalo** (Aug 2025 – Dec 2025).
   * Developed the B.O.L.T (Behavioral Object Locomotion & Tracking) system for the Unitree Go2 quadruped, enabling autonomous, real-time vision-guided object following.
   * Designed a decoupled, low-latency architecture that separates perception from motion control to ensure control decisions are driven by the most recent sensory feedback.
   * Engineered a perception pipeline utilizing a quantized YOLOv8n model optimized with ONNX for edge deployment on a Jetson Nano, achieving a near-perfect mAP@0.5 of 0.995.
@@ -37,7 +37,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
   * Developed web scraping pipelines to curate metadata for therapist discovery and integrated this data directly into the mobile application engine.
   * Implemented class weighting techniques to resolve data imbalance, ensuring robust performance for automated mental health interventions.
  
-* **Digital Image Processing Intern | Grey Scientific Labs** (Sept 2021 – Oct 2021) [Link](https://www.linkedin.com/in/sahilsawant01/details/experience/1635473734022/single-media-viewer/?profileId=ACoAAC6oP24Bgsp5t7QDLiKW84OztEAC-ZWeu3M)
+* **[Digital Image Processing Intern](https://www.linkedin.com/in/sahilsawant01/details/experience/1635473734022/single-media-viewer/?profileId=ACoAAC6oP24Bgsp5t7QDLiKW84OztEAC-ZWeu3M) | Grey Scientific Labs** (Sept 2021 – Oct 2021)
   * Engineered image preprocessing and noise reduction pipelines for medical datasets, organizing 400+ DICOM images for AI-based diagnostic analysis.
   * Developed automation scripts to convert and stitch high-resolution microscopic medical scans, reducing manual preprocessing time by 15%.
 

@@ -37,7 +37,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
   * Developed web scraping pipelines to curate metadata for therapist discovery and integrated this data directly into the mobile application engine.
   * Implemented class weighting techniques to resolve data imbalance, ensuring robust performance for automated mental health interventions.
  
-* **Digital Image Processing Intern | Grey Scientific Labs** (Sept 2021 – Oct 2021)
+* **Digital Image Processing Intern | Grey Scientific Labs** (Sept 2021 – Oct 2021) [Link](https://www.linkedin.com/in/sahilsawant01/details/experience/1635473734022/single-media-viewer/?profileId=ACoAAC6oP24Bgsp5t7QDLiKW84OztEAC-ZWeu3M)
   * Engineered image preprocessing and noise reduction pipelines for medical datasets, organizing 400+ DICOM images for AI-based diagnostic analysis.
   * Developed automation scripts to convert and stitch high-resolution microscopic medical scans, reducing manual preprocessing time by 15%.
 
@@ -46,7 +46,7 @@ AI/ML Engineer focused on the intersection of Deep Learning and Agentic AI. Expe
 
 * [**DeepSpeech**](https://github.com/sahillarious/DeepSpeech): Built a real-time acoustic pattern recognition system using a Convolutional Autoencoder to diagnose speech disorders with 96% accuracy. Integrated an LLM feedback loop via GPT-4 prompt engineering to deliver personalized, context-aware articulation tips based on identified faulty articulation.
 
-* **DermAI**: Engineered a diagnostic system for dermatological image classification leveraging Ensemble Transfer Learning (ResNet50, DenseNet121, VGG-19, EfficientNet-B0) to improve robustness over custom models. Deployed a web-based tool using Gradio that combines real-time classification with GPT-4 feedback and Knowledge Graph concepts for grounded recommendations
+* [**DermAI**](https://github.com/sahillarious/DermAI): Engineered a diagnostic system for dermatological image classification leveraging Ensemble Transfer Learning (ResNet50, DenseNet121, VGG-19, EfficientNet-B0) to improve robustness over custom models. Deployed a web-based tool using Gradio that combines real-time classification with GPT-4 feedback and Knowledge Graph concepts for grounded recommendations
 
 ### 🏆 Achievements
 * **2nd Place:** AI For Good Hackathon (Spring 2025) – Developed an AI-driven snow management solution using LSTM models.
